@@ -1,0 +1,10 @@
+UNION 子句的基本语法如下所示：
+ SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+
+    UNION
+
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
